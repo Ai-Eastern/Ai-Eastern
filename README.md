@@ -16,8 +16,8 @@ AI agent developer focused on reliable workflows, retrieval systems, backend obs
 
 ## Selected projects
 
-- [enterprise-service-desk-agent](https://github.com/Ai-Eastern/enterprise-service-desk-agent) — An evidence-backed progression from RAG to MCP, A2A, and multi-agent workflows.
 - [reuse-before-build](https://github.com/Ai-Eastern/reuse-before-build) — A practical Take / Borrow / Build decision workflow for coding agents.
+- [enterprise-service-desk-agent](https://github.com/Ai-Eastern/enterprise-service-desk-agent) — An evidence-backed progression from RAG to MCP, A2A, and multi-agent workflows.
 
 ## Current focus
 

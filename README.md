@@ -11,6 +11,7 @@ AI agent developer focused on reliable workflows, retrieval systems, backend obs
 
 | Project | Contribution |
 | --- | --- |
+| [pnpm](https://github.com/pnpm/pnpm) | Fixed configured `.js` pnpmfile loading so the module format follows the nearest `package.json`, with CommonJS and ES module regression coverage. [Merged PR #15152](https://github.com/pnpm/pnpm/pull/15152) |
 | [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | Added request-ID correlation and server-side 5xx logging for persistence routes. [Merged PR #1601](https://github.com/THU-MAIC/OpenMAIC/pull/1601) |
 | [Archify](https://github.com/tt-a1i/archify) | Fixed resolved quality-profile reporting in exported SVG metadata. [Merged PR #437](https://github.com/tt-a1i/archify/pull/437) |
 

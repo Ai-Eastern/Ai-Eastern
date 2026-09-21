@@ -32,9 +32,9 @@ My work focuses on grounded retrieval, tool integration, backend reliability, an
 
 A dependency-free Agent Skill that helps coding agents inspect existing implementations, tests, and prior decisions before choosing what to **Take, Borrow, or Build**. The repository includes dated evaluation records, diffs, test replays, compatibility notes, and documented failures rather than a success-rate claim.
 
-### [Enterprise Service Desk Agent](https://github.com/Ai-Eastern/enterprise-service-desk-agent-history)
+### [codex-agent-workbench](https://github.com/Ai-Eastern/codex-agent-workbench)
 
-A four-stage engineering history from a RAG service-desk agent to MCP tool access, A2A task exchange, and multi-agent orchestration. It demonstrates access-aware retrieval, human approval before writes, idempotency, FastAPI boundaries, and OpenTelemetry tracing using synthetic local data; it does not claim a real enterprise deployment.
+Codex-native orchestration for multi-project development, scoped context, and traceable handoffs. Prototype.
 
 ## Engineering principles
 

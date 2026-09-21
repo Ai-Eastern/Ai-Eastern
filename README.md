@@ -7,6 +7,9 @@ My work focuses on grounded retrieval, tool integration, backend reliability, an
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
+[![pnpm PR #15152 merged](https://img.shields.io/badge/pnpm-PR%20%2315152%20merged-2EA44F?style=flat&logo=pnpm&logoColor=white&labelColor=F69220)](https://github.com/pnpm/pnpm/pull/15152)
+[![ECC PR #3184 merged](assets/ecc-pr-3184-merged.svg)](https://github.com/affaan-m/ECC/pull/3184)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-2EA44F?style=flat&logo=github&logoColor=white)
 [![Open source: 4 merged upstream PRs](https://img.shields.io/badge/Open%20Source-4%20merged%20upstream%20PRs-2EA44F?style=flat&logo=github&logoColor=white)](#verified-open-source-work)
 
 ## What I build

@@ -22,13 +22,13 @@ My work focuses on grounded retrieval, tool integration, backend reliability, an
 
 | Project | Contribution |
 | --- | --- |
-| [Docling](https://github.com/docling-project/docling) | Fixed the AsciiDoc backend so incomplete tables no longer emit an extra empty table, and unified end-of-document table flushing to preserve captions, with regression coverage. [Merged PR #4300](https://github.com/docling-project/docling/pull/4300) |
-| [Laya](https://github.com/NandhaKishorM/laya) | Fixed `Router.preload([])` unexpectedly loading all three checkpoints when the selection is empty, with a regression check that no model loads occur. [Merged PR #240](https://github.com/NandhaKishorM/laya/pull/240) |
 | [pandas](https://github.com/pandas-dev/pandas) | Preserved assertion diagnostics for nested sequence length mismatches so unhashable nested values no longer mask the intended `AssertionError`, with regression coverage across low-level assertions, Series, and DataFrame comparisons. [Merged PR #69015](https://github.com/pandas-dev/pandas/pull/69015) |
-| [ECC](https://github.com/affaan-m/ECC) | Fixed project-scoped Claude hooks in ESM projects by adding managed CommonJS boundaries while preserving user-owned package manifests, with install, reinstall, and uninstall regression coverage. [Merged PR #3184](https://github.com/affaan-m/ECC/pull/3184) |
 | [pnpm](https://github.com/pnpm/pnpm) | Fixed configured `.js` pnpmfile loading so the module format follows the nearest `package.json`, with CommonJS and ES module regression coverage. [Merged PR #15152](https://github.com/pnpm/pnpm/pull/15152) |
+| [Docling](https://github.com/docling-project/docling) | Fixed the AsciiDoc backend so incomplete tables no longer emit an extra empty table, and unified end-of-document table flushing to preserve captions, with regression coverage. [Merged PR #4300](https://github.com/docling-project/docling/pull/4300) |
 | [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | Added request-ID correlation and server-side 5xx logging for persistence routes. [Merged PR #1601](https://github.com/THU-MAIC/OpenMAIC/pull/1601) |
+| [ECC](https://github.com/affaan-m/ECC) | Fixed project-scoped Claude hooks in ESM projects by adding managed CommonJS boundaries while preserving user-owned package manifests, with install, reinstall, and uninstall regression coverage. [Merged PR #3184](https://github.com/affaan-m/ECC/pull/3184) |
 | [Archify](https://github.com/tt-a1i/archify) | Fixed resolved quality-profile reporting in exported SVG metadata. [Merged PR #437](https://github.com/tt-a1i/archify/pull/437) |
+| [Laya](https://github.com/NandhaKishorM/laya) | Fixed `Router.preload([])` unexpectedly loading all three checkpoints when the selection is empty, with a regression check that no model loads occur. [Merged PR #240](https://github.com/NandhaKishorM/laya/pull/240) |
 
 ## Selected projects
 

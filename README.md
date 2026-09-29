@@ -8,10 +8,11 @@ My work focuses on grounded retrieval, tool integration, backend reliability, an
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
 [![pandas PR #69015 merged](https://img.shields.io/badge/pandas-PR%20%2369015%20merged-2EA44F?style=flat&logo=pandas&logoColor=white&labelColor=150458)](https://github.com/pandas-dev/pandas/pull/69015)
+[![Headroom PR #3778 merged](https://img.shields.io/badge/Headroom-PR%20%233778%20merged-2EA44F?style=flat&logo=github&logoColor=white&labelColor=24292F)](https://github.com/headroomlabs-ai/headroom/pull/3778)
 [![pnpm PR #15152 merged](https://img.shields.io/badge/pnpm-PR%20%2315152%20merged-2EA44F?style=flat&logo=pnpm&logoColor=white&labelColor=F69220)](https://github.com/pnpm/pnpm/pull/15152)
 [![NVIDIA SkillSpector PR #641 merged](https://img.shields.io/badge/NVIDIA%20SkillSpector-PR%20%23641%20merged-2EA44F?style=flat&logo=nvidia&logoColor=white&labelColor=76B900)](https://github.com/NVIDIA/SkillSpector/pull/641)
 [![ECC PR #3184 merged](assets/ecc-pr-3184-merged.svg)](https://github.com/affaan-m/ECC/pull/3184)
-[![Open source: 8 merged upstream PRs](https://img.shields.io/badge/Open%20Source-8%20merged%20upstream%20PRs-2EA44F?style=flat&logo=github&logoColor=white)](#verified-open-source-work)
+[![Open source: 9 merged upstream PRs](https://img.shields.io/badge/Open%20Source-9%20merged%20upstream%20PRs-2EA44F?style=flat&logo=github&logoColor=white)](#verified-open-source-work)
 
 ## What I build
 
@@ -24,6 +25,7 @@ My work focuses on grounded retrieval, tool integration, backend reliability, an
 | Project | Contribution |
 | --- | --- |
 | [pandas](https://github.com/pandas-dev/pandas) | Preserved assertion diagnostics for nested sequence length mismatches so unhashable nested values no longer mask the intended `AssertionError`, with regression coverage across low-level assertions, Series, and DataFrame comparisons. [Merged PR #69015](https://github.com/pandas-dev/pandas/pull/69015) |
+| [Headroom](https://github.com/headroomlabs-ai/headroom) | Prevented lossy HTML extraction from replacing tool output when no retrieval marker exists, with regression coverage for Anthropic and OpenAI tool results and shell output. [Merged PR #3778](https://github.com/headroomlabs-ai/headroom/pull/3778) |
 | [pnpm](https://github.com/pnpm/pnpm) | Fixed configured `.js` pnpmfile loading so the module format follows the nearest `package.json`, with CommonJS and ES module regression coverage. [Merged PR #15152](https://github.com/pnpm/pnpm/pull/15152) |
 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Made MCP rug-pull and least-privilege match details available in JSON reports, sanitized `pattern` across report formats to redact URL credentials, and added regression coverage. [Merged PR #641](https://github.com/NVIDIA/SkillSpector/pull/641) |
 | [Docling](https://github.com/docling-project/docling) | Fixed the AsciiDoc backend so incomplete tables no longer emit an extra empty table, and unified end-of-document table flushing to preserve captions, with regression coverage. [Merged PR #4300](https://github.com/docling-project/docling/pull/4300) |

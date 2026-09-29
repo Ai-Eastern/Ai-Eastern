@@ -8,7 +8,6 @@ My work focuses on grounded retrieval, tool integration, backend reliability, an
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
 [![pandas PR #69015 merged](https://img.shields.io/badge/pandas-PR%20%2369015%20merged-2EA44F?style=flat&logo=pandas&logoColor=white&labelColor=150458)](https://github.com/pandas-dev/pandas/pull/69015)
-[![Headroom PR #3778 merged](https://img.shields.io/badge/Headroom-PR%20%233778%20merged-2EA44F?style=flat&logo=github&logoColor=white&labelColor=24292F)](https://github.com/headroomlabs-ai/headroom/pull/3778)
 [![pnpm PR #15152 merged](https://img.shields.io/badge/pnpm-PR%20%2315152%20merged-2EA44F?style=flat&logo=pnpm&logoColor=white&labelColor=F69220)](https://github.com/pnpm/pnpm/pull/15152)
 [![NVIDIA SkillSpector PR #641 merged](https://img.shields.io/badge/NVIDIA%20SkillSpector-PR%20%23641%20merged-2EA44F?style=flat&logo=nvidia&logoColor=white&labelColor=76B900)](https://github.com/NVIDIA/SkillSpector/pull/641)
 [![ECC PR #3184 merged](assets/ecc-pr-3184-merged.svg)](https://github.com/affaan-m/ECC/pull/3184)

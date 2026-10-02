@@ -10,7 +10,6 @@ My work focuses on grounded retrieval, tool integration, backend reliability, an
 [![pandas PR #69015 merged](https://img.shields.io/badge/pandas-PR%20%2369015%20merged-2EA44F?style=flat&logo=pandas&logoColor=white&labelColor=150458)](https://github.com/pandas-dev/pandas/pull/69015)
 [![pnpm PR #15152 merged](https://img.shields.io/badge/pnpm-PR%20%2315152%20merged-2EA44F?style=flat&logo=pnpm&logoColor=white&labelColor=F69220)](https://github.com/pnpm/pnpm/pull/15152)
 [![NVIDIA SkillSpector PR #641 merged](https://img.shields.io/badge/NVIDIA%20SkillSpector-PR%20%23641%20merged-2EA44F?style=flat&logo=nvidia&logoColor=white&labelColor=76B900)](https://github.com/NVIDIA/SkillSpector/pull/641)
-[![Kornia PR #5300 merged](https://img.shields.io/badge/Kornia-PR%20%235300%20merged-2EA44F?style=flat)](https://github.com/kornia/kornia/pull/5300)
 [![ECC PR #3184 merged](assets/ecc-pr-3184-merged.svg)](https://github.com/affaan-m/ECC/pull/3184)
 [![Open source: 10 merged upstream PRs](https://img.shields.io/badge/Open%20Source-10%20merged%20upstream%20PRs-2EA44F?style=flat&logo=github&logoColor=white)](#verified-open-source-work)
 

@@ -1,16 +1,22 @@
 <h1 align="center">Eastern</h1>
 
 <p align="center">
-  <b>Agent / RAG 工程 · 面向企业内部与政企场景</b><br>
-  <sub>Agent / RAG engineering for on-prem enterprise and government scenarios</sub>
+  <b>I build small, verifiable systems around AI agents.</b>
 </p>
 
 <p align="center">
-  <a href="#open-source-contributions"><img alt="11 merged upstream PRs" src="https://img.shields.io/badge/merged%20upstream%20PRs-11-2EA44F?style=flat-square"></a>
-  <a href="https://github.com/pandas-dev/pandas/pull/69015"><img alt="pandas PR #69015 merged" src="https://img.shields.io/badge/pandas-%2369015%20merged-2EA44F?style=flat-square"></a>
-  <a href="https://github.com/pnpm/pnpm/pull/15152"><img alt="pnpm PR #15152 merged" src="https://img.shields.io/badge/pnpm-%2315152%20merged-2EA44F?style=flat-square"></a>
-  <a href="https://github.com/NVIDIA/SkillSpector/pull/641"><img alt="NVIDIA SkillSpector PR #641 merged" src="https://img.shields.io/badge/NVIDIA%20SkillSpector-%23641%20merged-2EA44F?style=flat-square"></a>
-  <a href="https://github.com/Ai-Eastern/reuse-before-build"><img alt="reuse-before-build stars" src="https://img.shields.io/github/stars/Ai-Eastern/reuse-before-build?style=flat-square&amp;label=reuse-before-build%20stars&amp;color=0969DA"></a>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&amp;logo=nodedotjs&amp;logoColor=white">
+</p>
+
+<p align="center">
+  <a href="https://github.com/pandas-dev/pandas/pull/69015"><img alt="pandas PR #69015 merged" src="https://img.shields.io/badge/pandas-PR%20%2369015%20merged-2EA44F?style=flat&amp;logo=pandas&amp;logoColor=white&amp;labelColor=150458"></a>
+  <a href="https://github.com/pnpm/pnpm/pull/15152"><img alt="pnpm PR #15152 merged" src="https://img.shields.io/badge/pnpm-PR%20%2315152%20merged-2EA44F?style=flat&amp;logo=pnpm&amp;logoColor=white&amp;labelColor=F69220"></a>
+  <a href="https://github.com/NVIDIA/SkillSpector/pull/641"><img alt="NVIDIA SkillSpector PR #641 merged" src="https://img.shields.io/badge/NVIDIA%20SkillSpector-PR%20%23641%20merged-2EA44F?style=flat&amp;logo=nvidia&amp;logoColor=white&amp;labelColor=76B900"></a>
+  <a href="https://github.com/affaan-m/ECC/pull/3184"><img alt="ECC PR #3184 merged" src="https://raw.githubusercontent.com/Ai-Eastern/Ai-Eastern/main/assets/ecc-pr-3184-merged.svg"></a>
+  <a href="#open-source-contributions"><img alt="Open source: 11 merged upstream PRs" src="https://img.shields.io/badge/Open%20Source-11%20merged%20upstream%20PRs-2EA44F?style=flat&amp;logo=github&amp;logoColor=white"></a>
+  <a href="https://github.com/Ai-Eastern/reuse-before-build"><img alt="reuse-before-build stars" src="https://img.shields.io/github/stars/Ai-Eastern/reuse-before-build?style=flat&amp;logo=github&amp;logoColor=white&amp;label=reuse-before-build&amp;color=0969DA"></a>
 </p>
 
 <br>
@@ -19,7 +25,7 @@
 
 > I prefer explicit evidence over broad claims: implementation, local verification, upstream acceptance, and real production use are different milestones.
 
-**Stack** &nbsp;LangGraph · FastAPI · Pydantic · Chroma · MCP / A2A · OpenTelemetry · Python · TypeScript
+**Stack** &nbsp;LangGraph · FastAPI · Pydantic · Chroma · MCP / A2A · OpenTelemetry
 
 ## What I build
 

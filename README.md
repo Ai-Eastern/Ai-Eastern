@@ -35,9 +35,9 @@
 
 ## Selected projects
 
-**[enterprise-service-desk-agent-history](https://github.com/Ai-Eastern/enterprise-service-desk-agent-history)** — an internal service-desk agent evolved in four stages: RAG → MCP read-only tool → A2A local validation → multi-agent collaboration.<br>
-Permission-aware retrieval · human-approval resume (LangGraph) · idempotent ticket creation · tests and version tags.<br>
-<sub>Personal reproduction with fictional data. Scope and limits are documented in the repo.</sub>
+**[codex-agent-workbench](https://github.com/Ai-Eastern/codex-agent-workbench)** — a Codex-native framework for multi-agent coding and multi-project orchestration.<br>
+Direct execution · native subagents · scoped project context · traceable handoffs and recovery.<br>
+<sub>Runnable prototype with bounded live validation. Full three-project acceptance remains pending.</sub>
 
 **[reuse-before-build](https://github.com/Ai-Eastern/reuse-before-build)** — a dependency-free Agent Skill that helps coding agents inspect existing implementations, tests, and prior decisions before choosing what to **Take, Borrow, or Build**.<br>
 Dated evaluation records, diffs, test replays, compatibility notes, and documented failures — rather than a success-rate claim.
